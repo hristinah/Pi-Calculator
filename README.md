@@ -52,7 +52,10 @@
 <br> 
 Първо ще тестваме обработка на *–р 1000* елемента без специално разпределяне на паметта *–g 1*<br>
  
-
+![6](https://user-images.githubusercontent.com/89635038/131676491-29ac3a6f-3bcf-417f-8135-a215acc5bb77.png)<br>
 ![2](https://user-images.githubusercontent.com/89635038/131673633-cca89b47-b8f0-48d0-bc62-85b961041b31.png)
+ 
 ![3](https://user-images.githubusercontent.com/89635038/131673648-64a4185f-4333-45ff-8415-c270486f495d.png)
+ 
+![8](https://user-images.githubusercontent.com/89635038/131676504-519e049c-20ba-4166-bc13-20c76662802b.png)<br>
 ![4](https://user-images.githubusercontent.com/89635038/131673653-71e4ebc5-06f6-4934-aea9-3177bd2454b0.png)
